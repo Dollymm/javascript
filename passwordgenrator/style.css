@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.left img {
+  width: 23px;
+  height: 23px;
+}
+.container {
+  max-width: 80vw;
+  margin: auto;
+}
+nav ul li{
+    list-style: none;
+}
